@@ -1,0 +1,12 @@
+[package]
+name = "clos"
+version = "0.1.0"
+authors = ["Servilio Afre Puentes <afrepues@mcmaster.ca>"]
+license = " GPL-2.0-or-later"
+description = "Common Lisp Object System for Rust programming"
+repository = "https://github.com/afrepues/clos-rs"
+categories = ["rust-patterns"]
+readme = "README.org"
+edition = "2018"
+
+[dependencies]

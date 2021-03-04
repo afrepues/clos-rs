@@ -1,0 +1,2 @@
+* CLOS for Rust
+Common Lisp Object System for Rust programming.
